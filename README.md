@@ -1,3 +1,19 @@
+new creds to connect to cluster :
+
+```
+
+-- linux-interface to connect tocluster :
+
+ssh -i "raman.pem" ubuntu@ec2-3-208-12-167.compute-1.amazonaws.com
+
+
+
+---command to connect to cluster :
+
+oc login --token=sha256~z8h-i0lxjqa_A_ERDv6Y1jL8xjc4K_QWg80VTWc1ljs --server=https://c116-e.us-south.containers.cloud.ibm.com:32256
+
+```
+
 Last day feedback :
 
 https://forms.office.com/r/yX1hQ2G4qz
